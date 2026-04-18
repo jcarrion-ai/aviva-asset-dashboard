@@ -1,7 +1,7 @@
 {
   "portfolioName": "Aviva Senior Living",
-  "reportDate": "2026-04-17",
-  "reportingPeriod": "Apr 2025 \u2013 Mar 2026 (T-12)",
+  "reportDate": "2026-04-18",
+  "reportingPeriod": "Apr 2025 – Mar 2026 (T-12)",
   "properties": [
     {
       "code": "1001",
@@ -29,7 +29,7 @@
       "partnerLoans": 2607158.31,
       "lender": "Vium Capital / MBI",
       "debtMaturityDate": "2029-03-01",
-      "debtStatus": "HUD closed \u2014 FHA #103-22089, Loan #1006907 (MIP schedule received 4/15/26)",
+      "debtStatus": "HUD closed — FHA #103-22089, Loan #1006907 (MIP schedule received 4/15/26)",
       "valuation": null,
       "openActionItems": 0,
       "managementFee12m": 441734.22
@@ -60,7 +60,7 @@
       "partnerLoans": 2614247.7199999997,
       "lender": "Vium Capital / MBI",
       "debtMaturityDate": "2029-03-01",
-      "debtStatus": "Bridge loan \u2014 weekly Vium bridge call (River Bend & Greer track) active",
+      "debtStatus": "Vium Capital/MBI — loan docs finalizing (Baker Donelson comments 4/14); weekly bridge calls ongoing.",
       "valuation": null,
       "openActionItems": 0,
       "managementFee12m": 334161.61
@@ -91,7 +91,7 @@
       "partnerLoans": 22692021.9,
       "lender": "City National Bank",
       "debtMaturityDate": "2027-12-01",
-      "debtStatus": "Lease-up \u2014 opened Dec 2024",
+      "debtStatus": "City National Bank — HUD refi in appraisal phase pending stabilized budget and final scope (4/1).",
       "valuation": null,
       "openActionItems": 0,
       "managementFee12m": 266904.77
@@ -153,7 +153,7 @@
       "partnerLoans": 5657878,
       "lender": "Locust Point Capital",
       "debtMaturityDate": "2027-04-01",
-      "debtStatus": "Extension in progress \u2014 new maturity Apr 2027",
+      "debtStatus": "Extension in progress — new maturity Apr 2027",
       "valuation": null,
       "openActionItems": 0,
       "managementFee12m": 354356.8
@@ -184,7 +184,7 @@
       "partnerLoans": 5180114,
       "lender": "Northwest Bank",
       "debtMaturityDate": "2027-07-11",
-      "debtStatus": "Matured \u2014 refi in process",
+      "debtStatus": "Matured — refi in process",
       "valuation": null,
       "openActionItems": 0,
       "managementFee12m": 289079.87
@@ -209,13 +209,13 @@
       "laborMTDBudget": 239371.88,
       "laborPTDActual": 746964.81,
       "laborPTDBudget": 701500.77,
-      "agencySpend12m": 215578.71000000002,
+      "agencySpend12m": 215578.71,
       "mortgageBalance": 12788584.58,
       "totalLTDebt": 12788584.58,
       "partnerLoans": 6579880.79,
       "lender": "Locust Point Capital",
       "debtMaturityDate": "2027-04-01",
-      "debtStatus": "Extension in progress \u2014 Locust Point consultant call 4/16\u20134/17",
+      "debtStatus": "Locust Point Capital — loan modification/workout negotiation (amendment redlines on receivership clause, Bradley legal opinion 3/25).",
       "valuation": null,
       "openActionItems": 0,
       "managementFee12m": 243264.47
@@ -246,7 +246,7 @@
       "partnerLoans": 7625759.45,
       "lender": "Providence Bank",
       "debtMaturityDate": "2026-06-30",
-      "debtStatus": "Workout \u2014 cash flow mortgage",
+      "debtStatus": "Workout — cash flow mortgage",
       "valuation": null,
       "openActionItems": 0,
       "managementFee12m": 180000
@@ -277,7 +277,7 @@
       "partnerLoans": 5312642.84,
       "lender": "Guaranty Bank & Trust",
       "debtMaturityDate": "2027-11-27",
-      "debtStatus": "Extended Nov 2024 \u2014 DSCR cure in place",
+      "debtStatus": "Extended Nov 2024 — DSCR cure in place",
       "valuation": null,
       "openActionItems": 0,
       "managementFee12m": 182106.18
@@ -308,7 +308,7 @@
       "partnerLoans": 2097000,
       "lender": "Protective Life",
       "debtMaturityDate": "2031-12-01",
-      "debtStatus": "Refinanced Dec 2025 \u2014 Newmark servicing",
+      "debtStatus": "Refinanced Dec 2025 — Newmark servicing",
       "valuation": null,
       "openActionItems": 0,
       "managementFee12m": 449377.22
@@ -366,12 +366,12 @@
       "laborPTDBudget": 590280.65,
       "agencySpend12m": 11967.99,
       "mortgageBalance": 3007500,
-      "totalLTDebt": 3007500,
+      "totalLTDebt": 5007500,
       "partnerLoans": 3283855.3000000003,
       "mezzLoan": 2000000,
       "lender": "STRIDE Bank",
       "debtMaturityDate": "2029-04-20",
-      "debtStatus": "Refi closing in final stage \u2014 docs signed 4/15\u20134/16, rate 6.771% fixed, new maturity 4/20/2029",
+      "debtStatus": "STRIDE Bank refi — all recordable docs and title affidavits signed 4/15; settlement statement in escrow, closing imminent.",
       "valuation": null,
       "openActionItems": 0,
       "managementFee12m": 211584.08
